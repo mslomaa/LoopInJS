@@ -22,3 +22,11 @@ button {
     background-color: inherit;
     border: dotted;
 }
+
+li {
+    margin: 10px;
+}
+
+.big {
+    font-size: 10px;
+}
