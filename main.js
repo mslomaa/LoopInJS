@@ -2,7 +2,7 @@ const btn = document.querySelector('button')
 const menuList = document.querySelector('ul');
 
 let i = 1;
-let j = 6;
+let j = 7;
 
 const addElement = function(){
     const liList = document.createElement('li');
