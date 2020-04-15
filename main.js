@@ -8,7 +8,7 @@ const addElement = function(){
     const liList = document.createElement('li');
     if (i <= 10) {
         menuList.appendChild(liList);
-        liList.innerHTML += 'element ' + i;
+        liList.textContent += 'element ' + i;
     }
     i++;
     
